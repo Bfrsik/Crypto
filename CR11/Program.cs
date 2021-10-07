@@ -25,7 +25,6 @@ namespace CR11
             GenDecrypter gd = new GenDecrypter("MonoScore.txt","BeScore.txt","TriScore.txt");
             gd.text = text;
             gd.Process();
-            File.WriteAllText("DecryptedText.txt",gd.BestText);
         }
     }
 }

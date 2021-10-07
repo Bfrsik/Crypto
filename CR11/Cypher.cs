@@ -7,7 +7,7 @@ namespace CR11
 {
     public class Cypher
     {
-        string alphabet = "абвгдеёжзийклмнопрстуфхцчшщъыьэюя";
+        public string alphabet = "абвгдеёжзийклмнопрстуфхцчшщъыьэюя";
         public Dictionary<char, char> Key = new Dictionary<char, char>();
 
         public Dictionary<char, char> ListToDict(List<char> key)
