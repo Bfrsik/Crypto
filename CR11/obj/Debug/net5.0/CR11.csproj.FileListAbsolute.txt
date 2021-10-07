@@ -1,0 +1,16 @@
+C:\Users\Barsik\RiderProjects\CR11\CR11\obj\Debug\net5.0\CR11.csproj.AssemblyReference.cache
+C:\Users\Barsik\RiderProjects\CR11\CR11\obj\Debug\net5.0\CR11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barsik\RiderProjects\CR11\CR11\obj\Debug\net5.0\CR11.AssemblyInfoInputs.cache
+C:\Users\Barsik\RiderProjects\CR11\CR11\obj\Debug\net5.0\CR11.AssemblyInfo.cs
+C:\Users\Barsik\RiderProjects\CR11\CR11\obj\Debug\net5.0\CR11.csproj.CoreCompileInputs.cache
+C:\Users\Barsik\RiderProjects\CR11\CR11\bin\Debug\net5.0\CR11.exe
+C:\Users\Barsik\RiderProjects\CR11\CR11\bin\Debug\net5.0\CR11.deps.json
+C:\Users\Barsik\RiderProjects\CR11\CR11\bin\Debug\net5.0\CR11.runtimeconfig.json
+C:\Users\Barsik\RiderProjects\CR11\CR11\bin\Debug\net5.0\CR11.runtimeconfig.dev.json
+C:\Users\Barsik\RiderProjects\CR11\CR11\bin\Debug\net5.0\CR11.dll
+C:\Users\Barsik\RiderProjects\CR11\CR11\bin\Debug\net5.0\ref\CR11.dll
+C:\Users\Barsik\RiderProjects\CR11\CR11\bin\Debug\net5.0\CR11.pdb
+C:\Users\Barsik\RiderProjects\CR11\CR11\obj\Debug\net5.0\CR11.dll
+C:\Users\Barsik\RiderProjects\CR11\CR11\obj\Debug\net5.0\ref\CR11.dll
+C:\Users\Barsik\RiderProjects\CR11\CR11\obj\Debug\net5.0\CR11.pdb
+C:\Users\Barsik\RiderProjects\CR11\CR11\obj\Debug\net5.0\CR11.genruntimeconfig.cache

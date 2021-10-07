@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Barsik\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Barsik\\.nuget\\packages"
+    ]
+  }
+}
